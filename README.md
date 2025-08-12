@@ -2,7 +2,7 @@
 
 **Author:** Kiran Guru  
 **Tools Used:** Power BI, DAX, Excel/CSV  
-**File:** [Kiran's_Credit_Card_Analysis.pbix](https://github.com/your-username/Credit-Card-Analysis-PowerBI/blob/main/KIRAN'S%20CREDIT%20CARD%20ANALYSIS.pbix)
+**File:** [Kiran's_Credit_Card_Analysis.pbix](https://github.com/KIRANNATH-GURUNATHAN/MY-CREDIT-CARD-ANALYSIS/blob/5329c2a7ce1ed16863e2791069bc277ba32f60c7/KIRAN'S%20CREDIT%20CARD%20ANALYSIS.pbix)
 
 ---
 
@@ -56,9 +56,9 @@ This dashboard provides **clear visual insights** for banks, analysts, and decis
 
 ## 📌 Sample Visual Preview
 
-![Dashboard Preview](screenshot1.png) 
-![Dashboard Preview](screenshot2.png)
-![Dashboard Preview](screenshot2.png)
+![Dashboard Preview]( https://github.com/KIRANNATH-GURUNATHAN/MY-CREDIT-CARD-ANALYSIS/blob/5329c2a7ce1ed16863e2791069bc277ba32f60c7/Screenshot%202025-08-12%20104832.png) 
+![Dashboard Preview](https://github.com/KIRANNATH-GURUNATHAN/MY-CREDIT-CARD-ANALYSIS/blob/5329c2a7ce1ed16863e2791069bc277ba32f60c7/Screenshot%202025-08-12%20104701.png)
+![Dashboard Preview](https://github.com/KIRANNATH-GURUNATHAN/MY-CREDIT-CARD-ANALYSIS/blob/5329c2a7ce1ed16863e2791069bc277ba32f60c7/Screenshot%202025-08-12%20104859.png)
 
 ---
 
